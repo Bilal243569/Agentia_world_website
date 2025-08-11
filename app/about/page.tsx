@@ -94,7 +94,7 @@ export default function About() {
           <div className="flex items-center p-8 md:p-16 bg-[#301c34] text-white">
             <div className="max-w-xl">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                About Agentia World
+                About Agentia Nexus
               </h1>
               <p className="text-lg mb-6">
                 At Agentia Nexus, I am passionate about creating innovative

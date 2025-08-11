@@ -39,49 +39,49 @@ const tools = [
     icon: <Stethoscope className="w-12 h-12" />,
     name: "Medical Rag AI Application",
     description: "Advanced AI-powered Medical Rag for your development needs",
-    href: "https://medical-rag-application-1.vercel.app/",
+    href: "https://medical-rag-application-bilal-a119.vercel.app/",
   },
   {
     icon: <Bot className="w-12 h-12" />,
     name: "CustomGPT Agentic AI Panaversity Document",
     description: "Advanced AI-powered Document for your development needs",
-    href: "https://mfahadjbr-agentic-ai-document-customgpt-main-eaxzoc.streamlit.app/"
+    href: "https://bilal243569-customgpt-for-agentic-ai-document-main-jcuyqz.streamlit.app/"
   },
   {
     icon: <Cloud className="w-12 h-12" />,
     name: "Wether CustomGPT",
     description: "Advanced AI-powered Weather for your development needs",
-    href: "https://mfahadjbr-weather-customgpt-main-cso9do.streamlit.app/"
+    href: "https://bilal243569-weather-customgpt-main-kaery6.streamlit.app/"
   },
   {
     icon: <Book className="w-12 h-12" />,
     name: "AI Book Writer",
     description: "Advanced AI-powered Book Writer for your development needs",
-    href: "https://mfahadjbr-ai-book-writer-srcai-book-writermain-is6myq.streamlit.app/"
+    href: "https://bilal243569-ai-book-writer-agent-srcai-book-writermain-y6iz22.streamlit.app/"
   },
   {
     icon: <Brain className="w-12 h-12" />,
     name: "AI Resume Builder",
     description: "Advanced AI-powered Resume for your development needs",
-    href: "https://ai-resume-builder-three-iota.vercel.app/"
+    href: "https://ai-resume-builder-s356-b558crakt-bilals-projects-24de79e8.vercel.app/"
   },
   {
     icon: <Wand2 className="w-12 h-12" />,
     name: "AI Translator",
     description: "Advanced AI-powered Translator for your development needs",
-    href: "https://mfahadjbr-multilingual-translator-project-app-zykhrl.streamlit.app/"
+    href: "https://bilal243569-ai-transl-multilingual-translator-projectapp-pqp8vk.streamlit.app/"
   },
   {
     icon: <MessageSquare className="w-12 h-12" />,
     name: "Gmail Assistant",
     description: "Advanced AI-powered Assistant for your development needs",
-    href: "https://mfahadjbr-email-responder-project-app-osur9u.streamlit.app"
+    href: "https://bilal243569-gmail-assistant-app-rdv5ns.streamlit.app/"
   },
   {
     icon: <Settings className="w-12 h-12" />,
     name: "AI Dev Tools",
     description: "Comprehensive suite of development tools and utilities",
-    href: "https://mfahadjbr-function-calling-assignment-app-e539fh.streamlit.app/"
+    href: "https://bilal243569-ai-dev-tools-app-fcajjd.streamlit.app/"
   }
 ];
 
@@ -218,23 +218,23 @@ export default function Home() {
             <div className="relative h-[400px]">
               <Image
                 src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070&auto=format&fit=crop"
-                alt="About Agentia World"
+                alt="About Agentia Nexus"
                 fill
                 className="object-cover rounded-lg"
               />
             </div>
             <div>
               <h2 className="text-4xl font-bold mb-6 text-[#301c34]">
-                About Agentia World
+                About Agentia Nexus
               </h2>
               <p className="text-gray-600 mb-6">
-                At Agentia World, we're passionate about creating innovative
+                At Agentia Nexus, I am passionate about creating innovative
                 solutions that empower businesses and individuals to thrive in the
-                digital age. Our mission is to provide cutting-edge tools and
+                digital age. My mission is to provide cutting-edge tools and
                 technologies that make complex tasks simple and efficient.
               </p>
               <p className="text-gray-600 mb-8">
-                With years of experience and a dedicated team of experts, we
+                With years of experience and a dedicated team of experts, I
                 continue to push the boundaries of what's possible in the world of
                 technology.
               </p>
